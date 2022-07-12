@@ -229,4 +229,3 @@ checkKnow.foo.logName();
 checkKnow.boo();
 
 // with a few words explain why this is happening Armenian or English.
-
